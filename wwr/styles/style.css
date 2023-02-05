@@ -76,7 +76,7 @@
     color: #03045e;
   }
   footer p a:hover {
-    text-decoration: underline;
+    text-decoration: none;
   }
   footer {
     background-color: #0077b6;
