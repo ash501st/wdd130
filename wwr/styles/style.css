@@ -23,12 +23,12 @@
   }
   nav a {
     text-align: center;
-    color: #03045e;
+    color: #00b4d8;
     text-decoration: none;
     padding: 35px;
   }
   nav a:hover {
-    background-color: black;
+    background-color: #03045e;
     color: #00b4d8;
   }
   .icon {
@@ -50,8 +50,8 @@
     color: #00b4d8;
   }
   .book, .join {
-    background-color: #03045e;
-    color: #00b4d8;
+    background-color: #0077b6;
+    color: #03045e;
     text-decoration: none;
     padding: 15px 30px;
     margin-top: 50px;
@@ -68,15 +68,15 @@
   }
   .msg h2 {
     font-family: var(--paragraph-font);
-    background-color: #03045e;
-    color: #0077b6;
+    background-color: #00b4d8;
+    color: #03045e;
     line-height: 1.5em;
     margin: 0;
     padding: 35px;
   }
   .msg p {
-    background-color: #03045e;
-    color: #00b4d8;
+    background-color: #00b4d8;
+    color: #03045e;
     line-height: 1.5em;
     padding-bottom: 15px;
   }
@@ -176,7 +176,7 @@ main section img {
   }
   #background {
     height: 725px;
-    background-color: #0077b6;
+    background-color: #03045e;
     grid-column: 1/11;
     grid-row: 4/9;
   }
