@@ -50,7 +50,7 @@
     color: #00b4d8;
   }
   .book, .join {
-    background-color: #0077b6;
+    background-color: #03045e;
     color: #00b4d8;
     text-decoration: none;
     padding: 15px 30px;
@@ -68,14 +68,14 @@
   }
   .msg h2 {
     font-family: var(--paragraph-font);
-    background-color: #0077b6;
-    color: #00b4d8;
+    background-color: #03045e;
+    color: #0077b6;
     line-height: 1.5em;
     margin: 0;
     padding: 35px;
   }
   .msg p {
-    background-color: #0077b6;
+    background-color: #03045e;
     color: #00b4d8;
     line-height: 1.5em;
     padding-bottom: 15px;
