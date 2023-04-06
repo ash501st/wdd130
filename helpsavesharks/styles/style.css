@@ -97,7 +97,7 @@ p.colored {
 
 nav {
   background-color: var(--nav-background-color);
-  line-height: 3em;
+  line-height: 150%;
   text-align: center;
   font-size: 1.2em;
 }
